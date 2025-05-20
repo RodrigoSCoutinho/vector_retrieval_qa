@@ -1,0 +1,36 @@
+# Pyhton
+
+__pycache__/
+*.pyc 
+*.pyo
+*.pyd
+env/
+.env
+
+# VS Code/jupyter
+.vscode/
+.ipynb_checkpoints/
+
+# FAISS
+*.faiss
+*.faiss.index
+
+# Outros
+*.DS_Store
+
+# Ambiente virtual
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de configuração
+.env
+
+# Índice FAISS (pode ser grande demais para o Git)
+faiss_index/
+
+# Outros arquivos
+.DS_Store
+
+

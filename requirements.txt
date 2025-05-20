@@ -1,0 +1,5 @@
+langchain>=0.1.16
+langchain-community>=0.0.34
+langchain-ollama>=0.1.0
+ollama>=0.1.6
+faiss-cpu>=1.7.4
