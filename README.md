@@ -16,8 +16,8 @@ Este projeto implementa um sistema de recuperação de informações usando embe
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/RodrigoSCoutinho/vector_retrieval_qa.git
+cd vector_retrieval_qa
 ```
 2. Crie um ambiente virtual (opcional, mas recomendado):
 
